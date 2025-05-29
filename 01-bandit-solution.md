@@ -59,3 +59,17 @@ Password:
 ```
 morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 ```
+Command to find password for Level 8:
+```bash
+grep "millionth" ./*
+```
+
+- **Level 8:**
+Password:
+```
+dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+```
+Command to find password for Level 9:
+```bash
+
+```
