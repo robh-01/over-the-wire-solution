@@ -71,5 +71,25 @@ dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 ```
 Command to find password for Level 9:
 ```bash
+sort data.txt | uniq -u
+```
+
+- **Level 9:**
+Password:
+```
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+```
+Command to find password for Level 10:
+```bash
+strings data.txt
+```
+
+- **Level 10:**
+Password:
+```
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+```
+Command to find password for Level 10:
+```bash
 
 ```
