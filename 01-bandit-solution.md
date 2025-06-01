@@ -89,7 +89,17 @@ Password:
 ```
 FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 ```
-Command to find password for Level 10:
+Command to find password for Level 11:
 ```bash
+ base64 -d data.txt
+```
 
+- **Level 11:**
+Password:
+```
+dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+```
+Command to find password for Level 12:
+```bash
+ 
 ```
