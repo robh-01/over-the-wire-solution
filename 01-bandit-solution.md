@@ -101,5 +101,15 @@ dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 ```
 Command to find password for Level 12:
 ```bash
- 
+ cat data.txt  | tr "N-ZA-Mn-za-m" "A-Za-z"
+```
+
+ - **Level 12:**
+Password:
+```
+7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+```
+Command to find password for Level 12:
+```bash
+
 ```
